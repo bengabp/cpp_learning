@@ -4,8 +4,9 @@
 g++ -o hello hello.cpp && ./hello
 ```
 
+# Common data types
 |Type | Bytes | Range |
-|:-----|-------|------------------|
+|:-----|:-------:|:------------------|
 | short|   2   | -32,768 to 32,767|
 | int  |   4   | -2B to 2B        |
 | long |   4   | -2B to 2B        |
