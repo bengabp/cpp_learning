@@ -10,9 +10,10 @@ Building a login system in c++
 #include <iostream>
 #include <string>
 #include <deque>
-
+#include <unordered_map>
 
 int main() {
-
+    std::unordered_map<std::string, std::unordered_map<std::string, std::string>> usersMap = {}; // Define an unordered_map to store users
 }
+
 
